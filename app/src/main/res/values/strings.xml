@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">DogCam</string>
+    <string name="content_description_dog_illustration">Illustration of a dog with a camera</string>
+    <string name="no_dog_detected">NO DOG DETECTED</string>
+    <string name="no_cat_detected">NO CAT DETECTED</string>
+    <string name="dog_detected">✅ DOG DETECTED</string>
+    <string name="cat_detected">✅ CAT DETECTED</string>
+    <string name="no_dog_no_photo">NO DOG\n\nNO PHOTO</string>
+    <string name="no_cat_no_photo">NO CAT\n\nNO PHOTO</string>
+    <string name="welcome_title">Welcome to DogCam</string>
+    <string name="welcome_description">This app is for taking photos with dogs.\n\nThere MUST be a dog in the frame to take pictures.\n\nNO DOG — NO PHOTO.</string>
+    <string name="got_it">Got it!</string>
+    <string name="permissions_denied">Permissions not granted</string>
+    <string name="dog_captured">Dog photo captured!</string>
+    <string name="cat_captured">Cat photo captured!</string>
+    <string name="try_cat_mode">Psst! Try the secret Cat mode 🐱</string>
+    <string name="no_gallery">No gallery app found</string>
+
+    <string name="feature_pet_detection"><b>Smart Pet Detection:</b> Only captures when a dog or cat is in frame.</string>
+    <string name="feature_shutter_sounds"><b>Custom Shutter Sounds:</b> Dog barks or secret Cat meows.</string>
+    <string name="feature_watermarking"><b>Branded Watermarking:</b> High-quality DogCam branding on every save.</string>
+    <string name="feature_bounding_boxes"><b>Professional Bounding Boxes:</b> Real-time ML tracking with toggle support.</string>
+    <string name="feature_tap_to_focus"><b>Tap-to-Focus:</b> Metering and forced re-detection on tap.</string>
+    <string name="feature_intelligent_ui"><b>Intelligent UI:</b> Controls rotate with your phone\'s orientation.</string>
+    <string name="feature_pro_storage"><b>Pro Storage:</b> Images saved to dedicated DogCam gallery folder.</string>
+    <string name="feature_full_metadata"><b>Full Metadata:</b> Saves all orientation and EXIF data.</string>
+    <string name="feature_advanced_zoom"><b>Advanced Zoom:</b> Smooth zoom with haptic feedback at 1.0x.</string>
+    <string name="feature_dual_camera"><b>Dual Camera Support:</b> Full front and rear camera integration.</string>
+    <string name="feature_volume_shutter"><b>Volume Shutter:</b> Use volume buttons as physical triggers.</string>
+    <string name="feature_smart_interlock"><b>Smart Interlock:</b> Shutter feedback and prevention for better shots.</string>
+</resources>
