@@ -24,20 +24,6 @@
 | :---: | :---: |
 | ![Tracking Placeholder](app/src/main/ic_dogcam_icon-playstore.png) | ![About Placeholder](app/src/main/ic_dogcam_icon-playstore.png) |
 
-## 🛠️ Build & Installation
-
-### Build Requirements
-- Android Studio Ladybug or newer.
-- Android SDK 35 (Compile SDK).
-- Minimum Android 8.0 (API 26).
-
-### Generating a Signed APK
-1. Open the project in Android Studio.
-2. Go to **Build > Generate Signed Bundle / APK...**
-3. Select **APK** and click **Next**.
-4. Use the provided keystore `dogcam-release.jks` or create a new one.
-5. Select the **release** build variant and click **Finish**.
-
 ## 🚀 Versioning
 Current Version: **1.001**
 *The version is manually incremented by 0.001 for every significant update.*
