@@ -18,11 +18,13 @@
 
 ## 📸 Screenshots
 
-*(Screenshots coming soon!)*
+<p align="center">
+  <img src="app/src/main/ic_dogcam_icon-playstore.png" width="300" alt="DogCam Hero Image">
+</p>
 
-| Smart Tracking | About Page |
+| Smart Tracking UI | About & Features |
 | :---: | :---: |
-| ![Tracking Placeholder](app/src/main/ic_dogcam_icon-playstore.png) | ![About Placeholder](app/src/main/ic_dogcam_icon-playstore.png) |
+| *[Tracking Screenshot Coming Soon]* | *[About Dialog Screenshot Coming Soon]* |
 
 ## 🚀 Versioning
 Current Version: **1.001**
