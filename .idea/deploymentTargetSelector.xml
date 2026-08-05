@@ -4,10 +4,10 @@
     <selectionStates>
       <SelectionState runConfigName="DogCam">
         <option name="selectionMode" value="DROPDOWN" />
-        <DropdownSelection timestamp="2026-04-25T22:25:33.376629400Z">
+        <DropdownSelection timestamp="2026-08-05T05:45:55.089462200Z">
           <Target type="DEFAULT_BOOT">
             <handle>
-              <DeviceId pluginId="PhysicalDevice" identifier="serial=42051JEKB17154" />
+              <DeviceId pluginId="LocalEmulator" identifier="path=C:\Users\hench\.android\avd\Medium_Phone.avd" />
             </handle>
           </Target>
         </DropdownSelection>
